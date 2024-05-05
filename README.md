@@ -16,8 +16,9 @@ Before running the application, ensure you have the following prerequisites inst
 ### 1. Clone or Download
 
 Clone or download the project from the GitHub repository:
+```bash
 git clone <repository-url>
-
+```
 
 2. Set Up Backend (bankdb)
 
