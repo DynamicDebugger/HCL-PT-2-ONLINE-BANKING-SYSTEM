@@ -15,10 +15,14 @@ Before running the application, ensure you have the following prerequisites inst
 
 ### 1. Clone or Download
 
-Clone or download the project from the GitHub repository:
+Clone or download the project from the [GitHub repository](https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/):
+
 ```bash
-git clone <[repository-url](https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/)>
+git clone https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/
 ```
+
+This will provide a clickable link to your GitHub repository and display the correct command for cloning.
+
 
 2. Set Up Backend (bankdb)
 
