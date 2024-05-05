@@ -16,29 +16,34 @@ Before running the application, ensure you have the following prerequisites inst
 ### 1. Clone or Download
 
 Clone or download the project from the GitHub repository:
-
-```bash
 git clone <repository-url>
 
+
 2. Set Up Backend (bankdb)
-Open the bankdb directory in IntelliJ IDEA or your preferred Java IDE.
-Install any dependencies required by the project.
-Start the Spring Boot application.
+
+   - Open the bankdb directory in IntelliJ IDEA or your preferred Java IDE.
+   - Install any dependencies required by the project.
+   - Start the Spring Boot application.
+
 3. Set Up Frontend (bankdbui)
-Navigate to the bankdbui directory.
-Install dependencies by running:
-bash
-Copy code
-npm install
-Create a proxy server file by running:
-bash
-Copy code
-node proxy-server.js
+
+   - Navigate to the bankdbui directory.
+   - Install dependencies by running:
+
+     ```bash
+     npm install
+     ```
+
+   - Create a proxy server file by running:
+
+     ```bash
+     node proxy-server.js
+     ```
+
 4. Run the Application
-Start the backend server by running the Spring Boot application.
-Open index.html from the bankdbui directory with a live server in your browser.
-csharp
-Copy code
+
+   - Start the backend server by running the Spring Boot application.
+   - Open index.html from the bankdbui directory with a live server in your browser.
 
 ## Usage
 
