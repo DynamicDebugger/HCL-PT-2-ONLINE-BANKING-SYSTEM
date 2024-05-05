@@ -17,7 +17,7 @@ Before running the application, ensure you have the following prerequisites inst
 
 Clone or download the project from the GitHub repository:
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/)>
 ```
 
 2. Set Up Backend (bankdb)
