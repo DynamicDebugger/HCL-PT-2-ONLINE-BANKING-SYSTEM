@@ -24,13 +24,13 @@ git clone https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/
 This will provide a clickable link to your GitHub repository and display the correct command for cloning.
 
 
-2. Set Up Backend (bankdb)
+### 2. Set Up Backend (bankdb)
 
    - Open the bankdb directory in IntelliJ IDEA or your preferred Java IDE.
    - Install any dependencies required by the project.
    - Start the Spring Boot application.
 
-3. Set Up Frontend (bankdbui)
+### 3. Set Up Frontend (bankdbui)
 
    - Navigate to the bankdbui directory.
    - Install dependencies by running:
@@ -45,7 +45,7 @@ This will provide a clickable link to your GitHub repository and display the cor
      node proxy-server.js
      ```
 
-4. Run the Application
+### 4. Run the Application
 
    - Start the backend server by running the Spring Boot application.
    - Open index.html from the bankdbui directory with a live server in your browser.
