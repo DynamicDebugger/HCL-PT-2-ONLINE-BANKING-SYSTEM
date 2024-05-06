@@ -32,7 +32,6 @@ document
                  if (!response.ok) {
                    throw new Error("Network response was not ok");
                  }
-                 console.log('35');
                  return response.json();
                })
                .then((userData) => {
