@@ -21,8 +21,6 @@ Clone or download the project from the [GitHub repository](https://github.com/Dy
 git clone https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/
 ```
 
-This will provide a clickable link to your GitHub repository and display the correct command for cloning.
-
 
 ### 2. Set Up Backend (bankdb)
 
@@ -59,9 +57,6 @@ Once the backend and frontend servers are running, you can access the online ban
 - Make sure to configure any necessary environment variables or database connections according to your setup.
 - Ensure that ports used by the backend and frontend servers are not in use by other applications.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
