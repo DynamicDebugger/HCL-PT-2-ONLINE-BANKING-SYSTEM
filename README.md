@@ -60,4 +60,4 @@ Once the backend and frontend servers are running, you can access the online ban
 
 ## License
 
-[MIT]([https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/blob/main/LICENSE])
+[MIT](https://github.com/DynamicDebugger/HCL-PT-2-ONLINE-BANKING-SYSTEM/blob/main/LICENSE)
